@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7931117745577918245
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7931117745577918244}
+  - component: {fileID: 5301302222699002221}
+  m_Layer: 0
+  m_Name: Collection_Rotating
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7931117745577918244
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7931117745577918245}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5301302222699002221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7931117745577918245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd02f16fb99024c4e8890709b49a4407, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  elementType: {fileID: 4548670732349493190, guid: 4afa73cc6c99f1644a4d464e77c23c94, type: 3}
+  elementsPerRow: 3
+  horizontalSpacing: 1
+  verticalSpacing: 1
+  elements:
+  - title: Element 1
+    sprite: {fileID: 21300000, guid: 8036d6946fa58d449ba11430fad16f9d, type: 3}
+  - title: Element 2
+    sprite: {fileID: 21300000, guid: 568fc08b4906eb24a95890f80be08d08, type: 3}
+  - title: Element 3
+    sprite: {fileID: 21300000, guid: ab0baf36c4f7bd843b1c875c550ff033, type: 3}
+  - title: Element 4
+    sprite: {fileID: 21300000, guid: 8036d6946fa58d449ba11430fad16f9d, type: 3}
+  - title: Element 5
+    sprite: {fileID: 21300000, guid: 568fc08b4906eb24a95890f80be08d08, type: 3}
+  - title: Element 6
+    sprite: {fileID: 21300000, guid: ab0baf36c4f7bd843b1c875c550ff033, type: 3}

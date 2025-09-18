@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8842244460648906088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7015553832029923270}
+  - component: {fileID: 1610427089228379768}
+  m_Layer: 0
+  m_Name: Log
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7015553832029923270
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8842244460648906088}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.869596, y: -3.1099305, z: 9.806104}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1610427089228379768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8842244460648906088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afd7f6f9a5e01b247a6935b5844900ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  folderPath: F:\00
+  fileName: ButtonToggleLog_v
+  groups:
+  - root: {fileID: 0}
+    groupName: S01_S
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: S02_S
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: S03_S
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: S03_M
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: S03_E
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: v_curtain
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: v_object
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: v_lamp
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: va_material
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: va_divider
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: vat_fan
+    includeInactive: 1
+    prefixGroupToElement: 0
+  - root: {fileID: 0}
+    groupName: va_headphone
+    includeInactive: 1
+    prefixGroupToElement: 0
+  tryUseLabelText: 1
+  nameOverrides: []
+  includeGroupColumn: 1
+  trackedButtons: []
+  trackedToggles: []

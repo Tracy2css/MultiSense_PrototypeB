@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebebeb;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #8e65bf;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <g id="tick">
+        <circle id="Oval" class="cls-2" cx="9" cy="9" r="9"/>
+        <g id="Icons_x2F_Mendeley_x2F_18px_x2F_thick">
+          <g id="tick16">
+            <polygon id="path-1" class="cls-1" points="13 5.1 14 6.1 7.3 12.7 4 9.5 5 8.5 7.3 10.8 13 5.1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

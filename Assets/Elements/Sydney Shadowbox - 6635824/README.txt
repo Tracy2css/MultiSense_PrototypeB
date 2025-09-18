@@ -1,0 +1,4 @@
+Sydney Shadowbox by SuSh11 on Thingiverse: https://www.thingiverse.com/thing:6635824
+
+Summary:
+DescriptionThis is a remix of the Paris Shadowbox which can be found here - https://makerworld.com/en/models/214531?from=search#profileId-233840There are 7 parts in total (5 layers and 2 for the frame)Layer 1 - Water (Blue) (Optional)Layer 2 - Sydney Opera House (White)Layer 3 - Trees (Green) (Optional)Layer 4 - Harbour Bridge (Black)Layer 5 - Sydney Tower Eye (Grey)Frame (Black)Frame Back (Black)Note: Layer 1 and Layer 3 are optional. If you want to skip them, you can adjust the z height of the Frame to be 5 mm shorter for each layer you take out.
